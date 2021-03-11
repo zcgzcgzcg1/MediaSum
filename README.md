@@ -5,9 +5,9 @@ Please restrict your usage of this dataset to research purpose only. And please 
 
 **MediaSum: A Large-scale Media Interview Dataset for Dialogue Summarization**
 
-Chenguang Zhu*, Yang Liu*, Jie Mei and Michael Zeng (*: Equal contribution)
+_Chenguang Zhu*, Yang Liu*, Jie Mei and Michael Zeng (*: Equal contribution)_
 
-North American Chapter of the Association for Computational Linguistics (**NAACL**), Mexico City, Mexico, 2021.
+_North American Chapter of the Association for Computational Linguistics (**NAACL**), Mexico City, Mexico, 2021._
 
 • Example data:
 
