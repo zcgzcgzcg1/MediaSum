@@ -23,7 +23,7 @@ _North American Chapter of the Association for Computational Linguistics (**NAAC
     "And I'm Alex Cohen.",
     "Coming up, the question of who wrote a famous religious poem turns into a very unchristian battle.",
     "First, remember the 1970s?  People talked to their houseplants, played them classical music. They were convinced plants were sensuous beings and there was that 1979 movie, \"The Secret Life of Plants.\"",
-    "Only a few daring individuals, fro m the scientific establishment, have come forward with offers to replicate his experiments, or test his results. The great majority are content simply to condemn his efforts without taking the trouble to investigate their validity.",
+    "Only a few daring individuals, from the scientific establishment, have come forward with offers to replicate his experiments, or test his results. The great majority are content simply to condemn his efforts without taking the trouble to investigate their validity.",
     ...
     "OK. Thank you.",
     "That's Susan Dudley. She's an associate professor of biology at McMaster University in Hamilt on Ontario. She discovered that there is a social life of plants."
