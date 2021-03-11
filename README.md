@@ -57,3 +57,8 @@ _North American Chapter of the Association for Computational Linguistics (**NAAC
   <img src="https://github.com/zcgzcgzcg1/MediaSum/blob/main/figures/data_distribution.png" width="650" alt="data_split">
 </p>
 
+# Ethics:
+We have used only the publicly available transcripts data from the media sources and adhere to their only-for-research-purpose guideline.
+
+As media and guests may have biased views, the transcripts and summaries will likely contain them. The content of the transcripts and summaries only reflect the views of the media and guests, and should be viewed with discretion. 
+
