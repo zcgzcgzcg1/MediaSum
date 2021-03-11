@@ -10,10 +10,9 @@ _Chenguang Zhu*, Yang Liu*, Jie Mei and Michael Zeng (*: Equal contribution)_
 _North American Chapter of the Association for Computational Linguistics (**NAACL**), Mexico City, Mexico, 2021._
 
 • Example data:
-
-???
-
-???
+<p align="left">
+  <img src="https://github.com/zcgzcgzcg1/MediaSum/blob/main/figures/example.png" width="1200" alt="data_split">
+</p>
 
 • Data split:
 <p align="left">
