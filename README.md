@@ -1,7 +1,7 @@
 # MediaSum
 This large-scale media interview dataset contains 463.6K transcripts with abstractive summaries, collected from interview transcripts and overview / topic descriptions from NPR and CNN.
 
-Please restrict your usage of this dataset to research purpose only. And please cite our paper:
+<ins>Please restrict your usage of this dataset to research purpose only</ins>. And please cite our paper:
 
 **MediaSum: A Large-scale Media Interview Dataset for Dialogue Summarization**
 
