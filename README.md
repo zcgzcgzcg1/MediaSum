@@ -9,7 +9,7 @@ _Chenguang Zhu*, Yang Liu*, Jie Mei and Michael Zeng (*: Equal contribution)_
 
 _North American Chapter of the Association for Computational Linguistics (**NAACL**), Mexico City, Mexico, 2021._
 
-
+• Sample data:
 ```
 {
   "id": "NPR-11",
