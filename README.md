@@ -3,7 +3,7 @@ This large-scale media interview dataset contains 463.6K transcripts with abstra
 
 <ins>Please restrict your usage of this dataset to research purpose only</ins>. And please cite our paper:
 
-**MediaSum: A Large-scale Media Interview Dataset for Dialogue Summarization**
+**<a href="https://arxiv.org/abs/2103.06410">MediaSum: A Large-scale Media Interview Dataset for Dialogue Summarization</a>**
 
 _Chenguang Zhu*, Yang Liu*, Jie Mei and Michael Zeng (*: Equal contribution)_
 
