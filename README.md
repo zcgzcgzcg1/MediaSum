@@ -62,3 +62,16 @@ We have used only the publicly available transcripts data from the media sources
 
 As media and guests may have biased views, the transcripts and summaries will likely contain them. The content of the transcripts and summaries only reflect the views of the media and guests, and should be viewed with discretion. 
 
+
+## Citation
+If you are using MediaSum in your work, please cite using the following Bibtex entry:
+
+```
+@article{zhu2021mediasum,
+  title={MediaSum: A Large-scale Media Interview Dataset for Dialogue Summarization},
+  author={Zhu, Chenguang and Liu, Yang and Mei, Jie and Zeng, Michael},
+  journal={arXiv preprint arXiv:2103.06410},
+  year={2021}
+}
+```
+
